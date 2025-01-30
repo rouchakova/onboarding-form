@@ -79,11 +79,6 @@ const OnboardingForm = () => {
       lineHeight: '1.8'
     }}>
       <div className="flex flex-col items-center mb-8">
-        <img 
-          src={logo} 
-          alt="Sovrn Logo" 
-          className="h-12 mb-4"  // Adjust height as needed
-        />
         <h1 className="text-2xl font-bold mb-4">Sovrn Tech Form</h1>
       </div>
       <Tabs>
