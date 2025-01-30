@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/onboarding-form/static/css/main.2d61ba7a.css",
+    "main.js": "/onboarding-form/static/js/main.85272b42.js",
+    "static/media/logo.svg": "/onboarding-form/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/onboarding-form/index.html",
+    "main.2d61ba7a.css.map": "/onboarding-form/static/css/main.2d61ba7a.css.map",
+    "main.85272b42.js.map": "/onboarding-form/static/js/main.85272b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d61ba7a.css",
+    "static/js/main.85272b42.js"
+  ]
+}
